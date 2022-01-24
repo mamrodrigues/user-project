@@ -1,0 +1,16 @@
+.formline {
+  color: azure;
+  padding: 10px 0em;
+  width: 100%;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: right;
+}
+
+.form {
+  width: 100%;
+}
